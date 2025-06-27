@@ -9,7 +9,7 @@ namespace BuildingMaterialsInventory
     public partial class Form1 : Form
     {
         // Шлях до файлу для збереження/завантаження товарів
-        private const string FilePath = @"D:\RepForYarik\ProductProject\BuildingMaterialsInventory\BuildingMaterialsInventory\products.txt";
+        private static readonly string FilePath = Path.Combine(Application.StartupPath, "products.txt");
 
         // Колекція товарів в оперативній пам'яті
         private List<Product> products = new List<Product>();
