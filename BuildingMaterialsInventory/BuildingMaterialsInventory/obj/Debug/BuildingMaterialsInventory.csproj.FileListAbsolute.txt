@@ -1,0 +1,10 @@
+D:\Projects\C#\BuildingMaterialsInventory\BuildingMaterialsInventory\bin\Debug\BuildingMaterialsInventory.exe.config
+D:\Projects\C#\BuildingMaterialsInventory\BuildingMaterialsInventory\bin\Debug\BuildingMaterialsInventory.exe
+D:\Projects\C#\BuildingMaterialsInventory\BuildingMaterialsInventory\bin\Debug\BuildingMaterialsInventory.pdb
+D:\Projects\C#\BuildingMaterialsInventory\BuildingMaterialsInventory\obj\Debug\BuildingMaterialsInventory.csproj.AssemblyReference.cache
+D:\Projects\C#\BuildingMaterialsInventory\BuildingMaterialsInventory\obj\Debug\BuildingMaterialsInventory.Form1.resources
+D:\Projects\C#\BuildingMaterialsInventory\BuildingMaterialsInventory\obj\Debug\BuildingMaterialsInventory.Properties.Resources.resources
+D:\Projects\C#\BuildingMaterialsInventory\BuildingMaterialsInventory\obj\Debug\BuildingMaterialsInventory.csproj.GenerateResource.cache
+D:\Projects\C#\BuildingMaterialsInventory\BuildingMaterialsInventory\obj\Debug\BuildingMaterialsInventory.csproj.CoreCompileInputs.cache
+D:\Projects\C#\BuildingMaterialsInventory\BuildingMaterialsInventory\obj\Debug\BuildingMaterialsInventory.exe
+D:\Projects\C#\BuildingMaterialsInventory\BuildingMaterialsInventory\obj\Debug\BuildingMaterialsInventory.pdb
