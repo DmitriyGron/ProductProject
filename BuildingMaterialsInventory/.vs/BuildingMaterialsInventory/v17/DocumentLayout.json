@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\C#\\BuildingMaterialsInventory\\",
+  "WorkspaceRootPath": "D:\\RepForYarik\\ProductProject\\BuildingMaterialsInventory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79B8F6D4-AA11-4017-BE13-45F829F91ACD}|BuildingMaterialsInventory\\BuildingMaterialsInventory.csproj|D:\\Projects\\C#\\BuildingMaterialsInventory\\buildingmaterialsinventory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{79B8F6D4-AA11-4017-BE13-45F829F91ACD}|BuildingMaterialsInventory\\BuildingMaterialsInventory.csproj|solutionrelative:buildingmaterialsinventory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79B8F6D4-AA11-4017-BE13-45F829F91ACD}|BuildingMaterialsInventory\\BuildingMaterialsInventory.csproj|d:\\projects\\c#\\buildingmaterialsinventory\\buildingmaterialsinventory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79B8F6D4-AA11-4017-BE13-45F829F91ACD}|BuildingMaterialsInventory\\BuildingMaterialsInventory.csproj|D:\\RepForYarik\\ProductProject\\BuildingMaterialsInventory\\buildingmaterialsinventory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79B8F6D4-AA11-4017-BE13-45F829F91ACD}|BuildingMaterialsInventory\\BuildingMaterialsInventory.csproj|solutionrelative:buildingmaterialsinventory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79B8F6D4-AA11-4017-BE13-45F829F91ACD}|BuildingMaterialsInventory\\BuildingMaterialsInventory.csproj|D:\\Projects\\C#\\BuildingMaterialsInventory\\buildingmaterialsinventory\\products.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{79B8F6D4-AA11-4017-BE13-45F829F91ACD}|BuildingMaterialsInventory\\BuildingMaterialsInventory.csproj|d:\\repforyarik\\productproject\\buildingmaterialsinventory\\buildingmaterialsinventory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79B8F6D4-AA11-4017-BE13-45F829F91ACD}|BuildingMaterialsInventory\\BuildingMaterialsInventory.csproj|solutionrelative:buildingmaterialsinventory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B8F6D4-AA11-4017-BE13-45F829F91ACD}|BuildingMaterialsInventory\\BuildingMaterialsInventory.csproj|d:\\repforyarik\\productproject\\buildingmaterialsinventory\\buildingmaterialsinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B8F6D4-AA11-4017-BE13-45F829F91ACD}|BuildingMaterialsInventory\\BuildingMaterialsInventory.csproj|solutionrelative:buildingmaterialsinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B8F6D4-AA11-4017-BE13-45F829F91ACD}|BuildingMaterialsInventory\\BuildingMaterialsInventory.csproj|D:\\RepForYarik\\ProductProject\\BuildingMaterialsInventory\\buildingmaterialsinventory\\products.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{79B8F6D4-AA11-4017-BE13-45F829F91ACD}|BuildingMaterialsInventory\\BuildingMaterialsInventory.csproj|solutionrelative:buildingmaterialsinventory\\products.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -22,15 +26,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\Projects\\C#\\BuildingMaterialsInventory\\BuildingMaterialsInventory\\Form1.cs",
+              "DocumentMoniker": "D:\\RepForYarik\\ProductProject\\BuildingMaterialsInventory\\BuildingMaterialsInventory\\Form1.cs",
               "RelativeDocumentMoniker": "BuildingMaterialsInventory\\Form1.cs",
-              "ToolTip": "D:\\Projects\\C#\\BuildingMaterialsInventory\\BuildingMaterialsInventory\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "D:\\RepForYarik\\ProductProject\\BuildingMaterialsInventory\\BuildingMaterialsInventory\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "BuildingMaterialsInventory\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T12:27:16.214Z",
@@ -39,13 +43,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\BuildingMaterialsInventory\\BuildingMaterialsInventory\\Form1.cs",
+              "DocumentMoniker": "D:\\RepForYarik\\ProductProject\\BuildingMaterialsInventory\\BuildingMaterialsInventory\\Form1.cs",
               "RelativeDocumentMoniker": "BuildingMaterialsInventory\\Form1.cs",
-              "ToolTip": "D:\\Projects\\C#\\BuildingMaterialsInventory\\BuildingMaterialsInventory\\Form1.cs",
+              "ToolTip": "D:\\RepForYarik\\ProductProject\\BuildingMaterialsInventory\\BuildingMaterialsInventory\\Form1.cs",
               "RelativeToolTip": "BuildingMaterialsInventory\\Form1.cs",
-              "ViewState": "AgIAAHcBAAAAAAAAAAAwwIcBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T12:37:18.357Z",
               "IsPinned": true,
@@ -53,16 +57,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "products.txt",
-              "DocumentMoniker": "D:\\Projects\\C#\\BuildingMaterialsInventory\\BuildingMaterialsInventory\\products.txt",
+              "DocumentMoniker": "D:\\RepForYarik\\ProductProject\\BuildingMaterialsInventory\\BuildingMaterialsInventory\\products.txt",
               "RelativeDocumentMoniker": "BuildingMaterialsInventory\\products.txt",
-              "ToolTip": "D:\\Projects\\C#\\BuildingMaterialsInventory\\BuildingMaterialsInventory\\products.txt",
+              "ToolTip": "D:\\RepForYarik\\ProductProject\\BuildingMaterialsInventory\\BuildingMaterialsInventory\\products.txt",
               "RelativeToolTip": "BuildingMaterialsInventory\\products.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-06-27T15:37:08.099Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RepForYarik\\ProductProject\\BuildingMaterialsInventory\\BuildingMaterialsInventory\\Program.cs",
+              "RelativeDocumentMoniker": "BuildingMaterialsInventory\\Program.cs",
+              "ToolTip": "D:\\RepForYarik\\ProductProject\\BuildingMaterialsInventory\\BuildingMaterialsInventory\\Program.cs",
+              "RelativeToolTip": "BuildingMaterialsInventory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:37:37.032Z",
+              "EditorCaption": ""
             }
           ]
         }
